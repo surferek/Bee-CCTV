@@ -20,6 +20,15 @@ Source code of Universal Monitoring System is dependency of its authors.
 You can use it however you like as long as you retain this terms.
 If you appreciate our work you can donete our Crypto wallet:
 
+@Bitcoin:
+1ABi7jtLsgDYojqKT3wmsKQSZpWhoo8rxZ
+@Ethereum:
+0x30B0B438ABc8aFCa59a3320cA43cAC4E88CFbf6C
+@Litecoin:
+LXxtLLMuSTF7SCXYgBUdzrH7D12zqCW6rv
+@EOS:
+0x30B0B438ABc8aFCa59a3320cA43cAC4E88CFbf6C
+
 
 
 
